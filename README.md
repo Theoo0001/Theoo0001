@@ -1,9 +1,9 @@
-● 👋 Prénom: Théoo.
-● 👀 Langue: Français.
+● 👋 Prénom: Théoo.<br>
+● 👀 Langue: Français.<br>
 
-● 🌱 [Partenaire] Zap-Hosting: https://discord.gg/FvNDTrtPKa
-● 💞️ [Propriétaire] FiveM Network: https://discord.gg/FvNDTrtPKa
+● 🌱 [Partenaire] Zap-Hosting: https://discord.gg/FvNDTrtPKa<br>
+● 💞️ [Propriétaire] FiveM Network: https://discord.gg/FvNDTrtPKa<br>
 
-● 🛫 [Développeur] EuropaRP: discord.gg/europarp.
-● 🌴 [Développeur] SunnySideRolePlay: discord.gg/NNnhJmxHd3.
-● 🔨 [Essai Développeur] RealmRP: discord.gg/realmroleplay.
+● 🛫 [Développeur] EuropaRP: discord.gg/europarp.<br>
+● 🌴 [Développeur] SunnySideRolePlay: discord.gg/NNnhJmxHd3.<br>
+● 🔨 [Essai Développeur] RealmRP: discord.gg/realmroleplay.<br>
