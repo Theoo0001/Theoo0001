@@ -6,4 +6,4 @@
 
 ● 🛫 [Développeur] EuropaRP: https://discord.gg/europarp.<br>
 ● 🌴 [Développeur] SunnySideRolePlay: https://discord.gg/NNnhJmxHd3.<br>
-● 🔨 [Essai Développeur] RealmRP: https://discord.gg/realmroleplay.<br>
+● 🔨 [Essai Développeur] RealmRolePlay: https://discord.gg/realmroleplay.<br>
