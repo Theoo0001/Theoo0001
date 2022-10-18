@@ -1,5 +1,4 @@
 ● 👋 Prénom: Théoo.<br>
-● 👀 Langue: Français.<br>
 
 ● 🌱 [Partenaire] Zap-Hosting: https://discord.gg/FvNDTrtPKa.<br>
 ● 💞️ [Propriétaire] FiveM Network: https://discord.gg/FvNDTrtPKa.<br>
