@@ -53,8 +53,8 @@
 </p>
 
 <p align="center">
-  <h4 align="center">🌴 • [Lead Developer] VirtualRP: https://discord.gg/jhzzMw46Z2 • 🌴 </h4>
-  <h4 align="center">🔨 • [Developer] RealmRolePlay: https://discord.gg/realmroleplay • 🔨</h4>
+  <h4 align="center"><img alt="Discord" src="https://img.shields.io/discord/1039155922141986876?color=Discord&label=Discord&logo=Discord&logoColor=Discord&style=social"> 🌴 • [Lead Developer] VirtualRP: https://discord.gg/jhzzMw46Z2 • 🌴 <img alt="Discord" src="https://img.shields.io/discord/1039155922141986876?color=Discord&label=Discord&logo=Discord&logoColor=Discord&style=social"></h4>
+  <h4 align="center"><img alt="Discord" src="https://img.shields.io/discord/582227307352162335?color=Discord&label=Discord&logo=Discord&logoColor=Discord&style=social"> 🔨 • [Developer] RealmRolePlay: https://discord.gg/realmroleplay • 🔨 <img alt="Discord" src="https://img.shields.io/discord/582227307352162335?color=Discord&label=Discord&logo=Discord&logoColor=Discord&style=social"></h4>
   <h4 align="center">🛫 • [Developer] EuropaRP: https://discord.gg/europarp • 💞️</h4>
 </p>
 
