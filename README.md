@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<h3 align="center">🌱 • <a href="https://zap-hosting.com/theoo0001">Zap-Hosting</a> - Dostawca Twoich usług! • 🌱</h3>
+<h3 align="center">🌱 • <a href="https://zap-hosting.com/theoo0001">Zap-Hosting</a> - Twój dostawca usług! • 🌱</h3>
  
    - Możliwość zakupienia gotowych (postawionych) serwerów FiveM Server, TeamSpeak 3 Server itp.
    - Virtualne maszyny a nawet Serwery Dedykowane dostosowane do Twoich potrzeb!
