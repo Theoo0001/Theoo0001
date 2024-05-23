@@ -4,13 +4,14 @@
 
 - I am a self-taught and now freelance developer.
 - Love learning new technologies and languages.
-- Always looking for new projects to work on. 👀
+- Additionally, I engage in the acting industry.
+- I'm always looking for new development projects to work on. 👀
 
 ## 🛠️ Personal projects
 
 There are many different projects I am involved with directly or indirectly, most are related around Discord:  
-- [Music Bot #1](https://github.com/Theoo0001/MusicBot) - A Discord music bot equipped with a wide range of features.
-- [Cfx.re ExileRP](https://github.com/Theoo0001/ExileRP) - An old package from the Cfx.re ExileRP server has been released.
+- [Discord Music Bot](https://github.com/Theoo0001/MusicBot) - A Discord music bot equipped with a wide range of features.
+- [FiveM Cfx.re ExileRP](https://github.com/Theoo0001/ExileRP) - An old package from the Cfx.re ExileRP server has been released.
 - [Farmer Simulator](https://store.steampowered.com) - We are developing a new Simulator that will be distributed on the Steam platform.
 - [Panda Clicker](https://play.google.com/store/games?device=windows) - Work is in progress to game that will be available on the Google Play platform for Android.
 
